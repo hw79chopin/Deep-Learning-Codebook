@@ -9,3 +9,5 @@ This is repo about NLP
 - make  install로 한다.
 
 ## mecab-user-dic과 mecab-ko 폴더의 위치는 mecab이 깔려있는 디렉토리 (e.g 라이브러리)에 놔주면 jupyter notebook에서도 사용가능하다!
+
+## Test
