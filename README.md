@@ -1,7 +1,8 @@
-# `Deep Learning Codebook`
+<h1 align="center"><strong>🔎 Deep Learning Codebook</strong></h3>
+
 `#DL` `#DNN` `#CNN` `#RNN` `#GAN`
 
-# 1. 소개 및 목표
+# 🚦 1. 소개 및 목표
 - 본 파일은 딥러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook이다.
 - 딥러닝 모델 중 DNN, CNN, RNN, GAN 등에 대한 설명과 코드를 정리해두어서 처음 딥러닝을 접하는 사람 혹은 오랜만에 딥러닝을 다시 시작하려는 사람에게 워밍업하기 좋게 만들어봤다.
 - 딥러닝에서 자주 사용하는 용어, 메소드를 정리해두어서 모르는 용어 있으면 바로 참고해두기 쉽게 해두었다.
@@ -10,7 +11,7 @@
 <br>
 <br>
 
-# 2. 목차
+# 🚦 2. 목차
 
 ### 1. Deep Learning이 무엇일까???
 
@@ -54,3 +55,6 @@
 ### 10. GAN (Generative Adversial Network)
    - GAN이란?
    - 코드 살펴봅시다~
+
+
+<h3 align="center"><strong>끗! 🙌</strong></h3>
